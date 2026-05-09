@@ -29,20 +29,6 @@ I'm a Computer Science student starting my B.Tech in 2026, passionate about Arti
 - **NumPy & Pandas** — data handling
 - **Git & GitHub** — version control
 
----
-
-## 🗺️ Roadmap
-
-- [x] Started AI/ML journey
-- [x] Git & GitHub setup
-- [ ] Python fundamentals complete
-- [ ] Mathematics for ML done
-- [ ] First ML project live
-- [ ] Deep Learning basics
-- [ ] Deploy an AI project
-
----
-
 <div align="center">
 💡 <i>"Don't just use AI — understand it, build it, improve it."</i>
 </div>
