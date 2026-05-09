@@ -41,7 +41,7 @@ Currently investing time in Python and the mathematics behind ML before college 
 
 ## Tools
 
-`Maths` `Python` `NumPy` `Pandas` `Git` `GitHub` `VS Code`
+`Python` `NumPy` `Pandas` `Git` `GitHub` `VS Code`
 
 ---
 
