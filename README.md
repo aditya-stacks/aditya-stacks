@@ -45,16 +45,6 @@ Currently investing time in Python and the mathematics behind ML before college 
 
 ---
 
-## GitHub Stats
-
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=adityainit&show_icons=true&theme=tokyonight&hide_border=true)
-
-
-
----
-
 <div align="center">
 <i>"Understand it. Build it. Improve it."</i>
 </div>
