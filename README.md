@@ -12,11 +12,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student starting my B.Tech in 2026, passionate about Artificial Intelligence and Machine Learning. I believe in learning by building — understanding concepts deeply and applying them to real-world problems.
+I'm a Computer Science student starting my B.Tech in 2026, passionate about Artificial Intelligence and Machine Learning. I believe in learning by building, understanding concepts deeply and applying them to real-world problems.
 
 - 🤖 Focused on **AI/ML Engineering**
 - 🐍 Currently mastering **Python & Mathematics for ML**
-- 🧠 Strong believer in fundamentals — *maths first, code second*
+- 🧠 Strong believer in fundamentals — *maths and code*
 - 🚀 Goal: Build and deploy real-world AI/ML projects
 - 📬 Open to **collaborations, guidance, and opportunities**
 
