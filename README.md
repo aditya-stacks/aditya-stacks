@@ -1,34 +1,60 @@
 <div align="center">
 
-# Hi, I'm Aditya 👋
+# Aditya Ranjan
 
-### Aspiring AI/ML Engineer | B.Tech CSE 2026–2030
+**AI/ML Engineer in Progress · B.Tech CSE 2026–2030**
 
-📧 adityaranjan.me@gmail.com
+[Gmail](mailto:adityaranjan.me@gmail.com) · [LinkedIn](https://linkedin.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a Computer Science student starting my B.Tech in 2026, passionate about Artificial Intelligence and Machine Learning. I believe in learning by building, understanding concepts deeply and applying them to real-world problems.
+I'm a Computer Science student starting B.Tech in 2026, focused entirely on Artificial Intelligence and Machine Learning. My approach is simple — build strong fundamentals first, then apply them to real projects.
 
-- 🤖 Focused on **AI/ML Engineering**
-- 🐍 Currently mastering **Python & Mathematics for ML**
-- 🧠 Strong believer in fundamentals — *maths and code*
-- 🚀 Goal: Build and deploy real-world AI/ML projects
-- 📬 Open to **collaborations, guidance, and opportunities**
+Currently investing time in Python and the mathematics behind ML before college starts, so I hit the ground running from Day 1.
 
 ---
 
-## 🛠️ Currently Learning
+## Focus Areas
 
-- **Python** — core programming for AI/ML
-- **Mathematics** — Linear Algebra, Calculus, Statistics
-- **NumPy & Pandas** — data handling
-- **Git & GitHub** — version control
+- Machine Learning & Deep Learning
+- Python for AI/ML
+- Mathematics — Linear Algebra, Calculus, Statistics
+- Data Analysis — NumPy, Pandas
+
+---
+
+## Currently Learning
+
+| Topic | Status |
+|---|---|
+| Python Fundamentals | 🔄 In Progress |
+| Mathematics for ML | 🔄 In Progress |
+| NumPy & Pandas | ⏳ Up Next |
+| Machine Learning | ⏳ Up Next |
+| Deep Learning | ⏳ Up Next |
+
+---
+
+## Tools
+
+`Maths` `Python` `NumPy` `Pandas` `Git` `GitHub` `VS Code`
+
+---
+
+## GitHub Stats
+
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=adityainit&show_icons=true&theme=tokyonight&hide_border=true)
+
+
+
+---
 
 <div align="center">
-💡 <i>"Don't just use AI — understand it, build it, improve it."</i>
+<i>"Understand it. Build it. Improve it."</i>
 </div>
